@@ -1,7 +1,7 @@
 properties = [
-  {id: "Width", type: "range", value: 4, min: 0, max: 10, step: 0.1}
-  {id: "Height", type: "range", value: 3, min: 0, max: 10, step: 0.1}
-  {id: "Depth", type: "range", value: 5, min: 0, max: 10, step: 0.1}
+  {id: "Width", type: "range", value: 4, min: 0, max: 14, step: 0.1}
+  {id: "Height", type: "range", value: 3, min: 0, max: 14, step: 0.1}
+  {id: "Depth", type: "range", value: 5, min: 0, max: 14, step: 0.1}
   {id: "Tab Length", type: "range", value: 0.75, min: 0, max: 2, step: 0.1}
   {id: "Material Thickness", type: "range", value: 0.25, min: 0, max: 0.5, step: 0.01}
 ]
